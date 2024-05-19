@@ -1,2 +1,2 @@
-# leetcode-python-solutions
-This repository contains my solutions to programming challenges from the LeetCode platform. Each solution is written in Python.
+# LeetCode Python Solutions
+This repository contains my solutions to challenges from the LeetCode platform. You can find algorithmic challenges of varying difficulty levels here. Each solution is written in Python.
